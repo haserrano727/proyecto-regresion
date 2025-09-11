@@ -5,3 +5,4 @@ Paso a paso para crear y hacer seguimiento ( control de versiones) a un reposito
 0. Crear (git init) o clonar (git clone)
 1. Crear archivo .gitignore
 2. Usar git add para hacer seguimiento (rastero) a archivos
+3. Guardar (commit) los cambios con git commit  -m "Mensaje"

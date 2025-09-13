@@ -1,5 +1,4 @@
-# Cargar el modelo
-modelo=model.oad(...)
+# Script que permite hacer predicciones con el modelo entrenado
 
-# Predecir
-modelo.predict(....)
+# Generar predicciones
+model.predict(...)
